@@ -4,7 +4,8 @@
   "description": "A carrier bag for Planetary Atoll exhibition",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
