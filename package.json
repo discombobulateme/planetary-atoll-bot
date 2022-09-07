@@ -1,0 +1,29 @@
+{
+  "name": "planetary-atoll-bot",
+  "version": "1.0.0",
+  "description": "A carrier bag for Planetary Atoll exhibition",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discombobulateme/planetary-atoll-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "carrier",
+    "bag"
+  ],
+  "author": "discombobulateme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/discombobulateme/planetary-atoll-bot/issues"
+  },
+  "homepage": "https://github.com/discombobulateme/planetary-atoll-bot#readme",
+  "dependencies": {
+    "dotenv": "16.0.2",
+    "node-telegram-bot-api": "0.59.0"
+  }
+}
